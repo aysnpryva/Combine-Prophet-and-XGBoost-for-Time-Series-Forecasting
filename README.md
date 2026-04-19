@@ -15,3 +15,6 @@ Səhv Düzəltmə: XGBoost modeli Prophet-in qaçırdığı qeyri-xətti asılı
 # 5.Final Birləşdirmə və Qiymətləndirmə
 Hibrid Proqnoz:'Final = Prophet_Forecast + XGBoost_Correction'
 Nəticə:Model **4.90% MAPE** (Mean Absolute Percentage Error) ilə yüksək dəqiqlik nümayiş etdirdi.
+
+# ![Model Components and Forecast](Proqnoz_ve_Trendler.jpeg)
+
